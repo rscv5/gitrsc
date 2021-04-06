@@ -1,0 +1,43 @@
+.parasetCard {
+  height: calc(100% - 32px);
+  margin-top: 16px;
+  margin-right: 0px;
+  margin-left: 10px;
+  padding: 10px;
+  width: 100%;
+}
+
+[data-theme="compact"].ant-advanced-search-form.ant-form-item,
+.ant-advanced-search-form.ant-form-item {
+  display: flex;
+}
+
+[data-theme="compact"].ant-advanced-search-form.ant-form-item-control-wrapper,
+.ant-advanced-search-form.ant-form-item-control-wrapper {
+  flex: 1;
+}
+
+.step-content {
+  border: 1px dashed #fafafa;
+  border-radius: 2px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+}
+.step-action {
+  margin-top: 10px;
+  margin-left: 60%;
+}
+.custom-cascader {
+  width: 100%;
+}
+.col-formItem {
+  /* border: 1px dashed #fafa; */
+  /* border: 1px dashed #fafafa; */
+  border-radius: 2px;
+  padding-right: 16px;
+  border-left: 16px;
+  padding-left: 24px;
+  /* padding-right: 16px; */
+  /* padding-top: 10px; */
+}

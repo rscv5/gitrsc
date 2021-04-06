@@ -1,0 +1,22 @@
+.gpuview-card {
+  height: calc(100% - 32px);
+  /* margin-top: 16px; */
+  /* margin-right: 16px; */
+  /* margin-left: 16px; */
+  /* margin-bottom: 0px; */
+  margin: 16px;
+  padding: 10px;
+}
+
+.master {
+  padding-left: 20%;
+  color: #3dedfa;
+}
+
+.process-circle {
+  padding-left: 40%;
+}
+.gpuview-table {
+  padding: 16px;
+  width: 100%;
+}

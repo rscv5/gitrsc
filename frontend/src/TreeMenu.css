@@ -1,0 +1,25 @@
+.site-tree-search-value {
+  color: #f50;
+}
+
+.outline-tree-menu {
+  height: calc(100% - 32px);
+  /* margin-top: 10px; */
+  /* margin-left: 10px; */
+  /* margin-right: 10px; */
+}
+
+.treeMenu {
+  /* height: calc(100% - 32px); */
+  height: 100%;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-left: 16px;
+  margin-right: 0px;
+  /* padding: 16px, 10px, 16px, 10px; */
+  padding: 10px;
+  width: 100%;
+}
+.ant-tree ant-tree-icon-hide treeMenu ant-tree-show-line {
+  margin: 0px;
+}
